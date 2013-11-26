@@ -11,3 +11,7 @@ library in your programs, see [GoTemps](https://github.com/darthlukan/gotemps)
 ## License
 
 > The Unlicense, see the included LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/darthlukan/goconvtemps/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
